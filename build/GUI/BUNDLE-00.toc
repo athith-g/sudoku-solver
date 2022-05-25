@@ -1,0 +1,3 @@
+([('GUI',
+   '/Users/athith_g/Desktop/Programming/sudoku_solver_new/dist/GUI',
+   'EXECUTABLE')],)
