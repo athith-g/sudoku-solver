@@ -29,7 +29,7 @@ def clear(option):
                 b.setStyleSheet("color: black")
                 b.setText("")
         if option == 1:
-            if "green" in b.styleSheet():
+            if "#62e322" in b.styleSheet():
                 b.setStyleSheet("color: black")
                 b.setText("")
         if option == 2:
